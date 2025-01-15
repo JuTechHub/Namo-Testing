@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "519509228652",
+    "project_id": "namo-launcher",
+    "storage_bucket": "namo-launcher.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519509228652:android:7311a955ddd74b89c4ac49",
+        "android_client_info": {
+          "package_name": "com.namolauncher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519509228652-hilm8dhikp8l84gr3s8omdgbkocb7ol2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.namolauncher",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "519509228652-47nav12d3qe6cf8012eui1krem0au0ju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd4ZVRIUTMgKLKEJBePdV0q8diIF8lU04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519509228652-47nav12d3qe6cf8012eui1krem0au0ju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
