@@ -15,9 +15,10 @@ buildscript {
         mavenCentral()
     }
     dependencies {
-        classpath('com.android.tools.build:gradle')
-        classpath('com.facebook.react:react-native-gradle-plugin')
-        classpath('org.jetbrains.kotlin:kotlin-gradle-plugin')
+        // Specify the versions of these dependencies
+        classpath('com.android.tools.build:gradle:7.3.1')  // Android Gradle Plugin version
+        classpath('com.facebook.react:react-native-gradle-plugin:0.71.0')  // React Native Gradle Plugin version
+        classpath('org.jetbrains.kotlin:kotlin-gradle-plugin:1.9.24')  // Kotlin Gradle Plugin version
     }
 }
 
